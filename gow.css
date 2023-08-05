@@ -1,0 +1,37 @@
+*{
+    background-color: aliceblue;
+    text-align: left;
+}
+img{
+    height: 500px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    border: 10px solid yellow;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    color: black;
+}
+html{
+    padding: 10px;
+    border: 10px solid darkblue;
+}
+#k{
+    background-color: palevioletred;
+    color: white;
+    border: 2px solid black;
+    font-size: 10px;
+    width: fit-content;
+}
+p[draggable="true"]{
+    background-color: powderblue;
+    padding:10px;
+    width: fit-content;
+    border: 10px solid pink;
+}
